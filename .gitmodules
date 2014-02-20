@@ -1,0 +1,6 @@
+[submodule "site-modules/rbenv_passenger"]
+	path = site-modules/rbenv_passenger
+	url = git@github.com:instedd/puppet-rbenv_passenger.git
+[submodule "site-modules/resourcemap"]
+	path = site-modules/resourcemap
+	url = git@github.com:instedd/puppet-resourcemap.git

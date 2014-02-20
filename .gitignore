@@ -1,0 +1,7 @@
+.bundle/
+.tmp/
+.librarian/
+.vagrant/
+modules/
+var/
+manifests/nodes/*.local.pp
